@@ -1,0 +1,1 @@
+Reproducing an error where Parcel can't transform class properties with the stage-0 Babel preset
